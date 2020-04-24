@@ -103,12 +103,21 @@
   }
 /* Seção Rodapé */
   .footer {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
     background-color: #2c3e50;
     color: #fff;
   }
-  
+  .footer p {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .cartao {
+    background-color: #000000;
+    padding: 5px 0px 5px 0px;
+  }
+
   .copyright {
     background-color: #1a252f;
   }
